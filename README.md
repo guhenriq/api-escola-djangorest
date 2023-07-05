@@ -24,3 +24,6 @@
 * https://localhost:8000/cursos/:id - Retorna um curso
 * https://localhost:8000/cursos/:id/matriculas - Retorna todos os alunos em um curso
 * https://localhost:8000/matriculas - Lista geral dos Alunos Matriculados em Cursos</p>
+
+### [Autenticação]
+O método de autenticação é o Basic Authentication, utilizando o superuser criado no Django.
